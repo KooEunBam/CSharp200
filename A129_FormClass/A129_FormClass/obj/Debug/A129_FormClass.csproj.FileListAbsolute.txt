@@ -1,0 +1,6 @@
+D:\박승민\C#\5674-839 (1)\A129_FormClass\A129_FormClass\obj\Debug\A129_FormClass.csprojAssemblyReference.cache
+D:\박승민\C#\5674-839 (1)\A129_FormClass\A129_FormClass\obj\Debug\A129_FormClass.Form1.resources
+D:\박승민\C#\5674-839 (1)\A129_FormClass\A129_FormClass\obj\Debug\A129_FormClass.SerialPortProgram.resources
+D:\박승민\C#\5674-839 (1)\A129_FormClass\A129_FormClass\obj\Debug\A103_FormClass.Properties.Resources.resources
+D:\박승민\C#\5674-839 (1)\A129_FormClass\A129_FormClass\obj\Debug\A129_FormClass.csproj.GenerateResource.cache
+D:\박승민\C#\5674-839 (1)\A129_FormClass\A129_FormClass\obj\Debug\A129_FormClass.csproj.CoreCompileInputs.cache

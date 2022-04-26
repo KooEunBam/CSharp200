@@ -1,0 +1,7 @@
+D:\박승민\C#\5674-839 (1)\A126_FormWithConsole\A126_FormWithConsole\bin\Debug\A126_FormWithConsole.exe.config
+D:\박승민\C#\5674-839 (1)\A126_FormWithConsole\A126_FormWithConsole\bin\Debug\A126_FormWithConsole.exe
+D:\박승민\C#\5674-839 (1)\A126_FormWithConsole\A126_FormWithConsole\bin\Debug\A126_FormWithConsole.pdb
+D:\박승민\C#\5674-839 (1)\A126_FormWithConsole\A126_FormWithConsole\obj\Debug\A126_FormWithConsole.csprojAssemblyReference.cache
+D:\박승민\C#\5674-839 (1)\A126_FormWithConsole\A126_FormWithConsole\obj\Debug\A126_FormWithConsole.csproj.CoreCompileInputs.cache
+D:\박승민\C#\5674-839 (1)\A126_FormWithConsole\A126_FormWithConsole\obj\Debug\A126_FormWithConsole.exe
+D:\박승민\C#\5674-839 (1)\A126_FormWithConsole\A126_FormWithConsole\obj\Debug\A126_FormWithConsole.pdb
