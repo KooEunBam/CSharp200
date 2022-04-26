@@ -1,0 +1,7 @@
+D:\박승민\C#\5674-839 (1)\A070_StaticMethod\A070_StaticMethod\bin\Debug\A070_StaticMethod.exe.config
+D:\박승민\C#\5674-839 (1)\A070_StaticMethod\A070_StaticMethod\bin\Debug\A070_StaticMethod.exe
+D:\박승민\C#\5674-839 (1)\A070_StaticMethod\A070_StaticMethod\bin\Debug\A070_StaticMethod.pdb
+D:\박승민\C#\5674-839 (1)\A070_StaticMethod\A070_StaticMethod\obj\Debug\A070_StaticMethod.csprojAssemblyReference.cache
+D:\박승민\C#\5674-839 (1)\A070_StaticMethod\A070_StaticMethod\obj\Debug\A070_StaticMethod.csproj.CoreCompileInputs.cache
+D:\박승민\C#\5674-839 (1)\A070_StaticMethod\A070_StaticMethod\obj\Debug\A070_StaticMethod.exe
+D:\박승민\C#\5674-839 (1)\A070_StaticMethod\A070_StaticMethod\obj\Debug\A070_StaticMethod.pdb

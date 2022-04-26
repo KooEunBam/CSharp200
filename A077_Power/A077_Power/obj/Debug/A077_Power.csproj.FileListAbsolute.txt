@@ -1,0 +1,7 @@
+D:\박승민\C#\5674-839 (1)\A077_Power\A077_Power\obj\Debug\A077_Power.csprojAssemblyReference.cache
+D:\박승민\C#\5674-839 (1)\A077_Power\A077_Power\obj\Debug\A077_Power.csproj.CoreCompileInputs.cache
+D:\박승민\C#\5674-839 (1)\A077_Power\A077_Power\bin\Debug\A077_Power.exe.config
+D:\박승민\C#\5674-839 (1)\A077_Power\A077_Power\bin\Debug\A077_Power.exe
+D:\박승민\C#\5674-839 (1)\A077_Power\A077_Power\bin\Debug\A077_Power.pdb
+D:\박승민\C#\5674-839 (1)\A077_Power\A077_Power\obj\Debug\A077_Power.exe
+D:\박승민\C#\5674-839 (1)\A077_Power\A077_Power\obj\Debug\A077_Power.pdb
