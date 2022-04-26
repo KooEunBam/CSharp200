@@ -1,0 +1,10 @@
+D:\박승민\C#\5674-839 (1)\A136_Login\A136_Login\bin\Debug\A110_Login.exe.config
+D:\박승민\C#\5674-839 (1)\A136_Login\A136_Login\bin\Debug\A110_Login.exe
+D:\박승민\C#\5674-839 (1)\A136_Login\A136_Login\bin\Debug\A110_Login.pdb
+D:\박승민\C#\5674-839 (1)\A136_Login\A136_Login\obj\Debug\A136_Login.csprojAssemblyReference.cache
+D:\박승민\C#\5674-839 (1)\A136_Login\A136_Login\obj\Debug\A136_Login.Form1.resources
+D:\박승민\C#\5674-839 (1)\A136_Login\A136_Login\obj\Debug\A110_Login.Properties.Resources.resources
+D:\박승민\C#\5674-839 (1)\A136_Login\A136_Login\obj\Debug\A136_Login.csproj.GenerateResource.cache
+D:\박승민\C#\5674-839 (1)\A136_Login\A136_Login\obj\Debug\A136_Login.csproj.CoreCompileInputs.cache
+D:\박승민\C#\5674-839 (1)\A136_Login\A136_Login\obj\Debug\A110_Login.exe
+D:\박승민\C#\5674-839 (1)\A136_Login\A136_Login\obj\Debug\A110_Login.pdb
