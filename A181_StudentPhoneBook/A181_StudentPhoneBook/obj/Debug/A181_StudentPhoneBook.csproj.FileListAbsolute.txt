@@ -1,0 +1,11 @@
+D:\박승민\C#\5674-839 (1)\A181_StudentPhoneBook\A181_StudentPhoneBook\bin\Debug\Students.accdb
+D:\박승민\C#\5674-839 (1)\A181_StudentPhoneBook\A181_StudentPhoneBook\bin\Debug\A148_StudentPhoneBook.exe.config
+D:\박승민\C#\5674-839 (1)\A181_StudentPhoneBook\A181_StudentPhoneBook\bin\Debug\A148_StudentPhoneBook.exe
+D:\박승민\C#\5674-839 (1)\A181_StudentPhoneBook\A181_StudentPhoneBook\bin\Debug\A148_StudentPhoneBook.pdb
+D:\박승민\C#\5674-839 (1)\A181_StudentPhoneBook\A181_StudentPhoneBook\obj\Debug\A181_StudentPhoneBook.csprojAssemblyReference.cache
+D:\박승민\C#\5674-839 (1)\A181_StudentPhoneBook\A181_StudentPhoneBook\obj\Debug\A181_StudentPhoneBook.Form1.resources
+D:\박승민\C#\5674-839 (1)\A181_StudentPhoneBook\A181_StudentPhoneBook\obj\Debug\A148_StudentPhoneBook.Properties.Resources.resources
+D:\박승민\C#\5674-839 (1)\A181_StudentPhoneBook\A181_StudentPhoneBook\obj\Debug\A181_StudentPhoneBook.csproj.GenerateResource.cache
+D:\박승민\C#\5674-839 (1)\A181_StudentPhoneBook\A181_StudentPhoneBook\obj\Debug\A181_StudentPhoneBook.csproj.CoreCompileInputs.cache
+D:\박승민\C#\5674-839 (1)\A181_StudentPhoneBook\A181_StudentPhoneBook\obj\Debug\A148_StudentPhoneBook.exe
+D:\박승민\C#\5674-839 (1)\A181_StudentPhoneBook\A181_StudentPhoneBook\obj\Debug\A148_StudentPhoneBook.pdb
