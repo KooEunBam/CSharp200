@@ -1,0 +1,7 @@
+D:\박승민\C#\5674-839 (1)\A011_FormatSpecifier\A011_FormatSpecifier\bin\Debug\A011_FormatSpecifier.exe.config
+D:\박승민\C#\5674-839 (1)\A011_FormatSpecifier\A011_FormatSpecifier\bin\Debug\A011_FormatSpecifier.exe
+D:\박승민\C#\5674-839 (1)\A011_FormatSpecifier\A011_FormatSpecifier\bin\Debug\A011_FormatSpecifier.pdb
+D:\박승민\C#\5674-839 (1)\A011_FormatSpecifier\A011_FormatSpecifier\obj\Debug\A011_FormatSpecifier.csprojAssemblyReference.cache
+D:\박승민\C#\5674-839 (1)\A011_FormatSpecifier\A011_FormatSpecifier\obj\Debug\A011_FormatSpecifier.csproj.CoreCompileInputs.cache
+D:\박승민\C#\5674-839 (1)\A011_FormatSpecifier\A011_FormatSpecifier\obj\Debug\A011_FormatSpecifier.exe
+D:\박승민\C#\5674-839 (1)\A011_FormatSpecifier\A011_FormatSpecifier\obj\Debug\A011_FormatSpecifier.pdb
