@@ -1,0 +1,12 @@
+D:\박승민\C#\5674-839 (1)\A151_MP3AlarmClock\A151_MP3AlarmClock\bin\Debug\A124_TabControl.exe.config
+D:\박승민\C#\5674-839 (1)\A151_MP3AlarmClock\A151_MP3AlarmClock\bin\Debug\A124_TabControl.exe
+D:\박승민\C#\5674-839 (1)\A151_MP3AlarmClock\A151_MP3AlarmClock\bin\Debug\A124_TabControl.pdb
+D:\박승민\C#\5674-839 (1)\A151_MP3AlarmClock\A151_MP3AlarmClock\obj\Debug\A151_MP3AlarmClock.csprojAssemblyReference.cache
+D:\박승민\C#\5674-839 (1)\A151_MP3AlarmClock\A151_MP3AlarmClock\obj\Debug\Interop.WMPLib.dll
+D:\박승민\C#\5674-839 (1)\A151_MP3AlarmClock\A151_MP3AlarmClock\obj\Debug\A151_MP3AlarmClock.csproj.ResolveComReference.cache
+D:\박승민\C#\5674-839 (1)\A151_MP3AlarmClock\A151_MP3AlarmClock\obj\Debug\A151_MP3AlarmClock.Form1.resources
+D:\박승민\C#\5674-839 (1)\A151_MP3AlarmClock\A151_MP3AlarmClock\obj\Debug\A124_TabControl.Properties.Resources.resources
+D:\박승민\C#\5674-839 (1)\A151_MP3AlarmClock\A151_MP3AlarmClock\obj\Debug\A151_MP3AlarmClock.csproj.GenerateResource.cache
+D:\박승민\C#\5674-839 (1)\A151_MP3AlarmClock\A151_MP3AlarmClock\obj\Debug\A151_MP3AlarmClock.csproj.CoreCompileInputs.cache
+D:\박승민\C#\5674-839 (1)\A151_MP3AlarmClock\A151_MP3AlarmClock\obj\Debug\A124_TabControl.exe
+D:\박승민\C#\5674-839 (1)\A151_MP3AlarmClock\A151_MP3AlarmClock\obj\Debug\A124_TabControl.pdb
