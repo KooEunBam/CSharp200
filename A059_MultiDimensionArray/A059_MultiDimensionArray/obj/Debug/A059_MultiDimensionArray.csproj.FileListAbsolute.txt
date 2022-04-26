@@ -1,0 +1,7 @@
+D:\박승민\C#\5674-839 (1)\A059_MultiDimensionArray\A059_MultiDimensionArray\bin\Debug\A059_MultiDimensionArray.exe.config
+D:\박승민\C#\5674-839 (1)\A059_MultiDimensionArray\A059_MultiDimensionArray\bin\Debug\A059_MultiDimensionArray.exe
+D:\박승민\C#\5674-839 (1)\A059_MultiDimensionArray\A059_MultiDimensionArray\bin\Debug\A059_MultiDimensionArray.pdb
+D:\박승민\C#\5674-839 (1)\A059_MultiDimensionArray\A059_MultiDimensionArray\obj\Debug\A059_MultiDimensionArray.csprojAssemblyReference.cache
+D:\박승민\C#\5674-839 (1)\A059_MultiDimensionArray\A059_MultiDimensionArray\obj\Debug\A059_MultiDimensionArray.csproj.CoreCompileInputs.cache
+D:\박승민\C#\5674-839 (1)\A059_MultiDimensionArray\A059_MultiDimensionArray\obj\Debug\A059_MultiDimensionArray.exe
+D:\박승민\C#\5674-839 (1)\A059_MultiDimensionArray\A059_MultiDimensionArray\obj\Debug\A059_MultiDimensionArray.pdb
