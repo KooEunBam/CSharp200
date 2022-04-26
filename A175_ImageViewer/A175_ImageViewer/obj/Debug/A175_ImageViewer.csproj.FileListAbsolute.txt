@@ -1,0 +1,10 @@
+D:\박승민\C#\5674-839 (1)\A175_ImageViewer\A175_ImageViewer\bin\Debug\A193_ImageViewer.exe.config
+D:\박승민\C#\5674-839 (1)\A175_ImageViewer\A175_ImageViewer\bin\Debug\A193_ImageViewer.exe
+D:\박승민\C#\5674-839 (1)\A175_ImageViewer\A175_ImageViewer\bin\Debug\A193_ImageViewer.pdb
+D:\박승민\C#\5674-839 (1)\A175_ImageViewer\A175_ImageViewer\obj\Debug\A175_ImageViewer.csprojAssemblyReference.cache
+D:\박승민\C#\5674-839 (1)\A175_ImageViewer\A175_ImageViewer\obj\Debug\A175_ImageViewer.Form1.resources
+D:\박승민\C#\5674-839 (1)\A175_ImageViewer\A175_ImageViewer\obj\Debug\A193_ImageViewer.Properties.Resources.resources
+D:\박승민\C#\5674-839 (1)\A175_ImageViewer\A175_ImageViewer\obj\Debug\A175_ImageViewer.csproj.GenerateResource.cache
+D:\박승민\C#\5674-839 (1)\A175_ImageViewer\A175_ImageViewer\obj\Debug\A175_ImageViewer.csproj.CoreCompileInputs.cache
+D:\박승민\C#\5674-839 (1)\A175_ImageViewer\A175_ImageViewer\obj\Debug\A193_ImageViewer.exe
+D:\박승민\C#\5674-839 (1)\A175_ImageViewer\A175_ImageViewer\obj\Debug\A193_ImageViewer.pdb

@@ -1,0 +1,15 @@
+D:\박승민\C#\5674-839 (1)\A178_SnakeBite\A178_SnakeBite\bin\Debug\snake.exe
+D:\박승민\C#\5674-839 (1)\A178_SnakeBite\A178_SnakeBite\bin\Debug\snake.pdb
+D:\박승민\C#\5674-839 (1)\A178_SnakeBite\A178_SnakeBite\obj\x86\Debug\A178_SnakeBite.csprojAssemblyReference.cache
+D:\박승민\C#\5674-839 (1)\A178_SnakeBite\A178_SnakeBite\obj\x86\Debug\MainWindow.baml
+D:\박승민\C#\5674-839 (1)\A178_SnakeBite\A178_SnakeBite\obj\x86\Debug\Window1.baml
+D:\박승민\C#\5674-839 (1)\A178_SnakeBite\A178_SnakeBite\obj\x86\Debug\MainWindow.g.cs
+D:\박승민\C#\5674-839 (1)\A178_SnakeBite\A178_SnakeBite\obj\x86\Debug\Window1.g.cs
+D:\박승민\C#\5674-839 (1)\A178_SnakeBite\A178_SnakeBite\obj\x86\Debug\App.g.cs
+D:\박승민\C#\5674-839 (1)\A178_SnakeBite\A178_SnakeBite\obj\x86\Debug\snake_MarkupCompile.cache
+D:\박승민\C#\5674-839 (1)\A178_SnakeBite\A178_SnakeBite\obj\x86\Debug\snake.g.resources
+D:\박승민\C#\5674-839 (1)\A178_SnakeBite\A178_SnakeBite\obj\x86\Debug\snake.Properties.Resources.resources
+D:\박승민\C#\5674-839 (1)\A178_SnakeBite\A178_SnakeBite\obj\x86\Debug\A178_SnakeBite.csproj.GenerateResource.cache
+D:\박승민\C#\5674-839 (1)\A178_SnakeBite\A178_SnakeBite\obj\x86\Debug\A178_SnakeBite.csproj.CoreCompileInputs.cache
+D:\박승민\C#\5674-839 (1)\A178_SnakeBite\A178_SnakeBite\obj\x86\Debug\snake.exe
+D:\박승민\C#\5674-839 (1)\A178_SnakeBite\A178_SnakeBite\obj\x86\Debug\snake.pdb

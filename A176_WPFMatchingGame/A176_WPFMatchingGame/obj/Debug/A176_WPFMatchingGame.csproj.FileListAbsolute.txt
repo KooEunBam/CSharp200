@@ -1,0 +1,15 @@
+D:\박승민\C#\5674-839 (1)\A176_WPFMatchingGame\A176_WPFMatchingGame\bin\Debug\A192_WPFMatchingGame.exe.config
+D:\박승민\C#\5674-839 (1)\A176_WPFMatchingGame\A176_WPFMatchingGame\bin\Debug\A192_WPFMatchingGame.exe
+D:\박승민\C#\5674-839 (1)\A176_WPFMatchingGame\A176_WPFMatchingGame\bin\Debug\A192_WPFMatchingGame.pdb
+D:\박승민\C#\5674-839 (1)\A176_WPFMatchingGame\A176_WPFMatchingGame\obj\Debug\A176_WPFMatchingGame.csprojAssemblyReference.cache
+D:\박승민\C#\5674-839 (1)\A176_WPFMatchingGame\A176_WPFMatchingGame\obj\Debug\MainWindow.g.cs
+D:\박승민\C#\5674-839 (1)\A176_WPFMatchingGame\A176_WPFMatchingGame\obj\Debug\App.g.cs
+D:\박승민\C#\5674-839 (1)\A176_WPFMatchingGame\A176_WPFMatchingGame\obj\Debug\A192_WPFMatchingGame_MarkupCompile.cache
+D:\박승민\C#\5674-839 (1)\A176_WPFMatchingGame\A176_WPFMatchingGame\obj\Debug\A192_WPFMatchingGame_MarkupCompile.lref
+D:\박승민\C#\5674-839 (1)\A176_WPFMatchingGame\A176_WPFMatchingGame\obj\Debug\MainWindow.baml
+D:\박승민\C#\5674-839 (1)\A176_WPFMatchingGame\A176_WPFMatchingGame\obj\Debug\A192_WPFMatchingGame.g.resources
+D:\박승민\C#\5674-839 (1)\A176_WPFMatchingGame\A176_WPFMatchingGame\obj\Debug\A192_WPFMatchingGame.Properties.Resources.resources
+D:\박승민\C#\5674-839 (1)\A176_WPFMatchingGame\A176_WPFMatchingGame\obj\Debug\A176_WPFMatchingGame.csproj.GenerateResource.cache
+D:\박승민\C#\5674-839 (1)\A176_WPFMatchingGame\A176_WPFMatchingGame\obj\Debug\A176_WPFMatchingGame.csproj.CoreCompileInputs.cache
+D:\박승민\C#\5674-839 (1)\A176_WPFMatchingGame\A176_WPFMatchingGame\obj\Debug\A192_WPFMatchingGame.exe
+D:\박승민\C#\5674-839 (1)\A176_WPFMatchingGame\A176_WPFMatchingGame\obj\Debug\A192_WPFMatchingGame.pdb
