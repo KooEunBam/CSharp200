@@ -1,0 +1,10 @@
+D:\박승민\C#\5674-839 (1)\A161_WinFormCalc\A161_WinFormCalc\obj\Debug\A161_WinFormCalc.csprojAssemblyReference.cache
+D:\박승민\C#\5674-839 (1)\A161_WinFormCalc\A161_WinFormCalc\obj\Debug\A161_WinFormCalc.Form1.resources
+D:\박승민\C#\5674-839 (1)\A161_WinFormCalc\A161_WinFormCalc\obj\Debug\A161_WinFormCalc.Properties.Resources.resources
+D:\박승민\C#\5674-839 (1)\A161_WinFormCalc\A161_WinFormCalc\obj\Debug\A161_WinFormCalc.csproj.GenerateResource.cache
+D:\박승민\C#\5674-839 (1)\A161_WinFormCalc\A161_WinFormCalc\obj\Debug\A161_WinFormCalc.csproj.CoreCompileInputs.cache
+D:\박승민\C#\5674-839 (1)\A161_WinFormCalc\A161_WinFormCalc\bin\Debug\A161_WinFormCalc.exe.config
+D:\박승민\C#\5674-839 (1)\A161_WinFormCalc\A161_WinFormCalc\bin\Debug\A161_WinFormCalc.exe
+D:\박승민\C#\5674-839 (1)\A161_WinFormCalc\A161_WinFormCalc\bin\Debug\A161_WinFormCalc.pdb
+D:\박승민\C#\5674-839 (1)\A161_WinFormCalc\A161_WinFormCalc\obj\Debug\A161_WinFormCalc.exe
+D:\박승민\C#\5674-839 (1)\A161_WinFormCalc\A161_WinFormCalc\obj\Debug\A161_WinFormCalc.pdb

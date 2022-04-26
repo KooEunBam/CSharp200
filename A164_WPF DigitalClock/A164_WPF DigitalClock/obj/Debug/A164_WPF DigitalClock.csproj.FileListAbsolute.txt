@@ -1,0 +1,15 @@
+D:\박승민\C#\5674-839 (1)\A164_WPF DigitalClock\A164_WPF DigitalClock\bin\Debug\A170 WPF DigitalClock.exe.config
+D:\박승민\C#\5674-839 (1)\A164_WPF DigitalClock\A164_WPF DigitalClock\bin\Debug\A170 WPF DigitalClock.exe
+D:\박승민\C#\5674-839 (1)\A164_WPF DigitalClock\A164_WPF DigitalClock\bin\Debug\A170 WPF DigitalClock.pdb
+D:\박승민\C#\5674-839 (1)\A164_WPF DigitalClock\A164_WPF DigitalClock\obj\Debug\A164_WPF DigitalClock.csprojAssemblyReference.cache
+D:\박승민\C#\5674-839 (1)\A164_WPF DigitalClock\A164_WPF DigitalClock\obj\Debug\MainWindow.g.cs
+D:\박승민\C#\5674-839 (1)\A164_WPF DigitalClock\A164_WPF DigitalClock\obj\Debug\App.g.cs
+D:\박승민\C#\5674-839 (1)\A164_WPF DigitalClock\A164_WPF DigitalClock\obj\Debug\A170 WPF DigitalClock_MarkupCompile.cache
+D:\박승민\C#\5674-839 (1)\A164_WPF DigitalClock\A164_WPF DigitalClock\obj\Debug\A170 WPF DigitalClock_MarkupCompile.lref
+D:\박승민\C#\5674-839 (1)\A164_WPF DigitalClock\A164_WPF DigitalClock\obj\Debug\MainWindow.baml
+D:\박승민\C#\5674-839 (1)\A164_WPF DigitalClock\A164_WPF DigitalClock\obj\Debug\A170 WPF DigitalClock.g.resources
+D:\박승민\C#\5674-839 (1)\A164_WPF DigitalClock\A164_WPF DigitalClock\obj\Debug\A170_WPF_DigitalClock.Properties.Resources.resources
+D:\박승민\C#\5674-839 (1)\A164_WPF DigitalClock\A164_WPF DigitalClock\obj\Debug\A164_WPF DigitalClock.csproj.GenerateResource.cache
+D:\박승민\C#\5674-839 (1)\A164_WPF DigitalClock\A164_WPF DigitalClock\obj\Debug\A164_WPF DigitalClock.csproj.CoreCompileInputs.cache
+D:\박승민\C#\5674-839 (1)\A164_WPF DigitalClock\A164_WPF DigitalClock\obj\Debug\A170 WPF DigitalClock.exe
+D:\박승민\C#\5674-839 (1)\A164_WPF DigitalClock\A164_WPF DigitalClock\obj\Debug\A170 WPF DigitalClock.pdb
