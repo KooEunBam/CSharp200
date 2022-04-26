@@ -1,0 +1,10 @@
+D:\박승민\C#\5674-839 (1)\A150_TabControl\A150_TabControl\bin\Debug\A124_TabControl.exe.config
+D:\박승민\C#\5674-839 (1)\A150_TabControl\A150_TabControl\bin\Debug\A124_TabControl.exe
+D:\박승민\C#\5674-839 (1)\A150_TabControl\A150_TabControl\bin\Debug\A124_TabControl.pdb
+D:\박승민\C#\5674-839 (1)\A150_TabControl\A150_TabControl\obj\Debug\A150_TabControl.csprojAssemblyReference.cache
+D:\박승민\C#\5674-839 (1)\A150_TabControl\A150_TabControl\obj\Debug\A150_TabControl.Form1.resources
+D:\박승민\C#\5674-839 (1)\A150_TabControl\A150_TabControl\obj\Debug\A124_TabControl.Properties.Resources.resources
+D:\박승민\C#\5674-839 (1)\A150_TabControl\A150_TabControl\obj\Debug\A150_TabControl.csproj.GenerateResource.cache
+D:\박승민\C#\5674-839 (1)\A150_TabControl\A150_TabControl\obj\Debug\A150_TabControl.csproj.CoreCompileInputs.cache
+D:\박승민\C#\5674-839 (1)\A150_TabControl\A150_TabControl\obj\Debug\A124_TabControl.exe
+D:\박승민\C#\5674-839 (1)\A150_TabControl\A150_TabControl\obj\Debug\A124_TabControl.pdb

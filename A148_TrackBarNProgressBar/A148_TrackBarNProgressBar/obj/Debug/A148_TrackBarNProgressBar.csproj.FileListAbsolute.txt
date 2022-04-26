@@ -1,0 +1,21 @@
+D:\박승민\C#\5674-839 (1)\A148_TrackBarNProgressBar\A148_TrackBarNProgressBar\bin\Debug\A122_TrackBarNProgressBar.exe.config
+D:\박승민\C#\5674-839 (1)\A148_TrackBarNProgressBar\A148_TrackBarNProgressBar\bin\Debug\A122_TrackBarNProgressBar.exe
+D:\박승민\C#\5674-839 (1)\A148_TrackBarNProgressBar\A148_TrackBarNProgressBar\bin\Debug\A122_TrackBarNProgressBar.pdb
+D:\박승민\C#\5674-839 (1)\A148_TrackBarNProgressBar\A148_TrackBarNProgressBar\obj\Debug\A148_TrackBarNProgressBar.csprojAssemblyReference.cache
+D:\박승민\C#\5674-839 (1)\A148_TrackBarNProgressBar\A148_TrackBarNProgressBar\obj\Debug\A148_TrackBarNProgressBar.Form1.resources
+D:\박승민\C#\5674-839 (1)\A148_TrackBarNProgressBar\A148_TrackBarNProgressBar\obj\Debug\A122_TrackBarNProgressBar.Properties.Resources.resources
+D:\박승민\C#\5674-839 (1)\A148_TrackBarNProgressBar\A148_TrackBarNProgressBar\obj\Debug\A148_TrackBarNProgressBar.csproj.GenerateResource.cache
+D:\박승민\C#\5674-839 (1)\A148_TrackBarNProgressBar\A148_TrackBarNProgressBar\obj\Debug\A148_TrackBarNProgressBar.csproj.CoreCompileInputs.cache
+D:\박승민\C#\5674-839 (1)\A148_TrackBarNProgressBar\A148_TrackBarNProgressBar\obj\Debug\A122_TrackBarNProgressBar.exe
+D:\박승민\C#\5674-839 (1)\A148_TrackBarNProgressBar\A148_TrackBarNProgressBar\obj\Debug\A122_TrackBarNProgressBar.pdb
+Z:\윤상훈\C# Introduction\C# 예제모음\A148_TrackBarNProgressBar\A148_TrackBarNProgressBar\bin\Debug\A122_TrackBarNProgressBar.exe.config
+Z:\윤상훈\C# Introduction\C# 예제모음\A148_TrackBarNProgressBar\A148_TrackBarNProgressBar\bin\Debug\A122_TrackBarNProgressBar.exe
+Z:\윤상훈\C# Introduction\C# 예제모음\A148_TrackBarNProgressBar\A148_TrackBarNProgressBar\bin\Debug\A122_TrackBarNProgressBar.pdb
+Z:\윤상훈\C# Introduction\C# 예제모음\A148_TrackBarNProgressBar\A148_TrackBarNProgressBar\obj\Debug\A148_TrackBarNProgressBar.csproj.AssemblyReference.cache
+Z:\윤상훈\C# Introduction\C# 예제모음\A148_TrackBarNProgressBar\A148_TrackBarNProgressBar\obj\Debug\A148_TrackBarNProgressBar.csproj.SuggestedBindingRedirects.cache
+Z:\윤상훈\C# Introduction\C# 예제모음\A148_TrackBarNProgressBar\A148_TrackBarNProgressBar\obj\Debug\A148_TrackBarNProgressBar.Form1.resources
+Z:\윤상훈\C# Introduction\C# 예제모음\A148_TrackBarNProgressBar\A148_TrackBarNProgressBar\obj\Debug\A122_TrackBarNProgressBar.Properties.Resources.resources
+Z:\윤상훈\C# Introduction\C# 예제모음\A148_TrackBarNProgressBar\A148_TrackBarNProgressBar\obj\Debug\A148_TrackBarNProgressBar.csproj.GenerateResource.cache
+Z:\윤상훈\C# Introduction\C# 예제모음\A148_TrackBarNProgressBar\A148_TrackBarNProgressBar\obj\Debug\A148_TrackBarNProgressBar.csproj.CoreCompileInputs.cache
+Z:\윤상훈\C# Introduction\C# 예제모음\A148_TrackBarNProgressBar\A148_TrackBarNProgressBar\obj\Debug\A122_TrackBarNProgressBar.exe
+Z:\윤상훈\C# Introduction\C# 예제모음\A148_TrackBarNProgressBar\A148_TrackBarNProgressBar\obj\Debug\A122_TrackBarNProgressBar.pdb

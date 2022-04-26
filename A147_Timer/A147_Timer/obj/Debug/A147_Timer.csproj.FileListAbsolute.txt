@@ -1,0 +1,10 @@
+D:\박승민\C#\5674-839 (1)\A147_Timer\A147_Timer\bin\Debug\A121_Timer.exe.config
+D:\박승민\C#\5674-839 (1)\A147_Timer\A147_Timer\bin\Debug\A121_Timer.exe
+D:\박승민\C#\5674-839 (1)\A147_Timer\A147_Timer\bin\Debug\A121_Timer.pdb
+D:\박승민\C#\5674-839 (1)\A147_Timer\A147_Timer\obj\Debug\A147_Timer.csprojAssemblyReference.cache
+D:\박승민\C#\5674-839 (1)\A147_Timer\A147_Timer\obj\Debug\A147_Timer.Form1.resources
+D:\박승민\C#\5674-839 (1)\A147_Timer\A147_Timer\obj\Debug\A121_Timer.Properties.Resources.resources
+D:\박승민\C#\5674-839 (1)\A147_Timer\A147_Timer\obj\Debug\A147_Timer.csproj.GenerateResource.cache
+D:\박승민\C#\5674-839 (1)\A147_Timer\A147_Timer\obj\Debug\A147_Timer.csproj.CoreCompileInputs.cache
+D:\박승민\C#\5674-839 (1)\A147_Timer\A147_Timer\obj\Debug\A121_Timer.exe
+D:\박승민\C#\5674-839 (1)\A147_Timer\A147_Timer\obj\Debug\A121_Timer.pdb
