@@ -1,0 +1,15 @@
+D:\박승민\C#\5674-839 (1)\A168_WPF MonteCarloPI\A168_WPF MonteCarloPI\bin\Debug\A176_WPF MonteCarloPI.exe.config
+D:\박승민\C#\5674-839 (1)\A168_WPF MonteCarloPI\A168_WPF MonteCarloPI\bin\Debug\A176_WPF MonteCarloPI.exe
+D:\박승민\C#\5674-839 (1)\A168_WPF MonteCarloPI\A168_WPF MonteCarloPI\bin\Debug\A176_WPF MonteCarloPI.pdb
+D:\박승민\C#\5674-839 (1)\A168_WPF MonteCarloPI\A168_WPF MonteCarloPI\obj\Debug\A168_WPF MonteCarloPI.csprojAssemblyReference.cache
+D:\박승민\C#\5674-839 (1)\A168_WPF MonteCarloPI\A168_WPF MonteCarloPI\obj\Debug\MainWindow.g.cs
+D:\박승민\C#\5674-839 (1)\A168_WPF MonteCarloPI\A168_WPF MonteCarloPI\obj\Debug\App.g.cs
+D:\박승민\C#\5674-839 (1)\A168_WPF MonteCarloPI\A168_WPF MonteCarloPI\obj\Debug\A176_WPF MonteCarloPI_MarkupCompile.cache
+D:\박승민\C#\5674-839 (1)\A168_WPF MonteCarloPI\A168_WPF MonteCarloPI\obj\Debug\A176_WPF MonteCarloPI_MarkupCompile.lref
+D:\박승민\C#\5674-839 (1)\A168_WPF MonteCarloPI\A168_WPF MonteCarloPI\obj\Debug\MainWindow.baml
+D:\박승민\C#\5674-839 (1)\A168_WPF MonteCarloPI\A168_WPF MonteCarloPI\obj\Debug\A176_WPF MonteCarloPI.g.resources
+D:\박승민\C#\5674-839 (1)\A168_WPF MonteCarloPI\A168_WPF MonteCarloPI\obj\Debug\A176_WPF_MonteCarloPI.Properties.Resources.resources
+D:\박승민\C#\5674-839 (1)\A168_WPF MonteCarloPI\A168_WPF MonteCarloPI\obj\Debug\A168_WPF MonteCarloPI.csproj.GenerateResource.cache
+D:\박승민\C#\5674-839 (1)\A168_WPF MonteCarloPI\A168_WPF MonteCarloPI\obj\Debug\A168_WPF MonteCarloPI.csproj.CoreCompileInputs.cache
+D:\박승민\C#\5674-839 (1)\A168_WPF MonteCarloPI\A168_WPF MonteCarloPI\obj\Debug\A176_WPF MonteCarloPI.exe
+D:\박승민\C#\5674-839 (1)\A168_WPF MonteCarloPI\A168_WPF MonteCarloPI\obj\Debug\A176_WPF MonteCarloPI.pdb
