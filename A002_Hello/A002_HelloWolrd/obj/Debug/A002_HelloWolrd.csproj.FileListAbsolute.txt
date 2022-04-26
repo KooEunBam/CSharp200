@@ -1,0 +1,15 @@
+D:\박승민\C#\5674-839 (1)\A002_Hello\A002_HelloWolrd\bin\Debug\A002_HelloWolrd.exe.config
+D:\박승민\C#\5674-839 (1)\A002_Hello\A002_HelloWolrd\bin\Debug\A002_HelloWolrd.exe
+D:\박승민\C#\5674-839 (1)\A002_Hello\A002_HelloWolrd\bin\Debug\A002_HelloWolrd.pdb
+D:\박승민\C#\5674-839 (1)\A002_Hello\A002_HelloWolrd\obj\Debug\A002_HelloWolrd.csproj.AssemblyReference.cache
+D:\박승민\C#\5674-839 (1)\A002_Hello\A002_HelloWolrd\obj\Debug\A002_HelloWolrd.csproj.CoreCompileInputs.cache
+D:\박승민\C#\5674-839 (1)\A002_Hello\A002_HelloWolrd\obj\Debug\A002_HelloWolrd.exe
+D:\박승민\C#\5674-839 (1)\A002_Hello\A002_HelloWolrd\obj\Debug\A002_HelloWolrd.pdb
+D:\10_Task\5_C#_coding\C# 예제모음\A002_Hello\A002_HelloWolrd\bin\Debug\A002_HelloWolrd.exe.config
+D:\10_Task\5_C#_coding\C# 예제모음\A002_Hello\A002_HelloWolrd\bin\Debug\A002_HelloWolrd.exe
+D:\10_Task\5_C#_coding\C# 예제모음\A002_Hello\A002_HelloWolrd\bin\Debug\A002_HelloWolrd.pdb
+D:\10_Task\5_C#_coding\C# 예제모음\A002_Hello\A002_HelloWolrd\obj\Debug\A002_HelloWolrd.csproj.AssemblyReference.cache
+D:\10_Task\5_C#_coding\C# 예제모음\A002_Hello\A002_HelloWolrd\obj\Debug\A002_HelloWolrd.csproj.SuggestedBindingRedirects.cache
+D:\10_Task\5_C#_coding\C# 예제모음\A002_Hello\A002_HelloWolrd\obj\Debug\A002_HelloWolrd.csproj.CoreCompileInputs.cache
+D:\10_Task\5_C#_coding\C# 예제모음\A002_Hello\A002_HelloWolrd\obj\Debug\A002_HelloWolrd.exe
+D:\10_Task\5_C#_coding\C# 예제모음\A002_Hello\A002_HelloWolrd\obj\Debug\A002_HelloWolrd.pdb
