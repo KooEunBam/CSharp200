@@ -1,0 +1,15 @@
+D:\박승민\C#\5674-839 (1)\A167_RatationClock\A167_RatationClock\bin\Debug\A173_RatationClock.exe.config
+D:\박승민\C#\5674-839 (1)\A167_RatationClock\A167_RatationClock\bin\Debug\A173_RatationClock.exe
+D:\박승민\C#\5674-839 (1)\A167_RatationClock\A167_RatationClock\bin\Debug\A173_RatationClock.pdb
+D:\박승민\C#\5674-839 (1)\A167_RatationClock\A167_RatationClock\obj\Debug\A167_RatationClock.csprojAssemblyReference.cache
+D:\박승민\C#\5674-839 (1)\A167_RatationClock\A167_RatationClock\obj\Debug\MainWindow.g.cs
+D:\박승민\C#\5674-839 (1)\A167_RatationClock\A167_RatationClock\obj\Debug\App.g.cs
+D:\박승민\C#\5674-839 (1)\A167_RatationClock\A167_RatationClock\obj\Debug\A173_RatationClock_MarkupCompile.cache
+D:\박승민\C#\5674-839 (1)\A167_RatationClock\A167_RatationClock\obj\Debug\A173_RatationClock_MarkupCompile.lref
+D:\박승민\C#\5674-839 (1)\A167_RatationClock\A167_RatationClock\obj\Debug\MainWindow.baml
+D:\박승민\C#\5674-839 (1)\A167_RatationClock\A167_RatationClock\obj\Debug\A173_RatationClock.g.resources
+D:\박승민\C#\5674-839 (1)\A167_RatationClock\A167_RatationClock\obj\Debug\A173_RatationClock.Properties.Resources.resources
+D:\박승민\C#\5674-839 (1)\A167_RatationClock\A167_RatationClock\obj\Debug\A167_RatationClock.csproj.GenerateResource.cache
+D:\박승민\C#\5674-839 (1)\A167_RatationClock\A167_RatationClock\obj\Debug\A167_RatationClock.csproj.CoreCompileInputs.cache
+D:\박승민\C#\5674-839 (1)\A167_RatationClock\A167_RatationClock\obj\Debug\A173_RatationClock.exe
+D:\박승민\C#\5674-839 (1)\A167_RatationClock\A167_RatationClock\obj\Debug\A173_RatationClock.pdb
